@@ -1,0 +1,1 @@
+a simple boost thread pool implementation including a normal best-working thread pool and a time-delayed working thread pool.
